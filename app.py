@@ -1,4 +1,4 @@
-
+pip install pandas numpy matplotlib seaborn streamlit plotly duckdb statsmodels
 # Import necessary libraries
 import pandas as pd
 import numpy as np
