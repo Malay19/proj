@@ -4,3 +4,10 @@ nbformat
 plotly
 duckdb
 statsmodels
+numpy
+matplotlib
+seaborn
+
+
+
+
